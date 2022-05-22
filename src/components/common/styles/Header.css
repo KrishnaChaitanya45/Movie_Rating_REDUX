@@ -1,0 +1,14 @@
+.header{
+    background-color:  #37474f
+    ;
+    height:06rem;
+    padding:0px 40px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.text{
+    color:#eceff1;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
